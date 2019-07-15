@@ -16,7 +16,7 @@ require (
 	github.com/hashicorp/logutils v1.0.0 // indirect
 	github.com/hashicorp/terraform v0.11.12-beta1.0.20190214175014-182daa619826
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
-	github.com/linode/linodego v0.7.1
+	github.com/linode/linodego v0.8.1
 	github.com/mitchellh/cli v1.0.0 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
